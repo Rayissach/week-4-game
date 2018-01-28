@@ -1,0 +1,43 @@
+body {
+	background: url("https://images2.alphacoders.com/533/thumb-1920-533009.jpg");
+	height: 100%;
+	background-size: cover;
+
+}
+
+h1,
+h2,
+h3,
+h4 {
+	color: white;
+}
+.alert {
+	background: url("https://orig00.deviantart.net/1783/f/2010/144/2/6/free_chidori_by_dark_princess_alice.png");
+	background-size: cover;
+}
+
+.crystal {
+	height: 200px;
+	width: 200px;
+	border: none;
+}
+
+#crystal-1 {
+	background: url("https://s-media-cache-ak0.pinimg.com/originals/3d/02/0f/3d020f2fd014c292459fa677106e4381.png");
+	background-size: cover;
+}
+
+#crystal-2 {
+	background: url("https://www.hardcoregamer.com/wp-content/uploads/2014/12/character-model_Sasuke_fix_02_flat.png");
+	background-size: cover;
+}
+
+#crystal-3 {
+	background: url("http://www.pngmart.com/files/5/Naruto-Shippuden-Transparent-Background.png");
+	background-size: cover;
+}
+
+#crystal-4 {
+	background: url("https://img00.deviantart.net/50b0/i/2017/006/4/3/naruto_shippuden_pain__yahiko__by_iennidesign-daufz3c.png");
+	background-size: cover;
+}
