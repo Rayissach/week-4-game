@@ -11,9 +11,12 @@ h3,
 h4 {
 	color: white;
 }
-.alert {
+
+
+#alert {
 	background: url("https://orig00.deviantart.net/1783/f/2010/144/2/6/free_chidori_by_dark_princess_alice.png");
 	background-size: cover;
+	color: white;
 }
 
 .crystal {
